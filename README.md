@@ -16,6 +16,6 @@ After that we explore hyperparameter tuning an how to make our NN better, bias-v
 Learning these gave me an indepth understanding of how NNs work and its so fascinating and it wouldnt be so far fetched if i called it magic(even though i know the math now)
 ## So what next?
 1. Presently learning the math of convolutional neural networks 
-2. Since these assignments are just for the purpose of understanding, the assignments are at a very novice level.I will be continuing down the Neural network rabbit hole through keras from now on, focussing more on the application. My work on that can be followed on github.com/maruyari/tensorflow 
+2. Since these assignments are just for the purpose of understanding, the assignments are at a very novice level.I will be continuing down the Neural network rabbit hole through keras from now on, focussing more on the application. My work on that can be followed on https://github.com/maruyari/Tensorflow 
 
 
